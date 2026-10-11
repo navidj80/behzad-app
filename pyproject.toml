@@ -1,0 +1,7 @@
+[project]
+name = "cashier_app"
+version = "1.0.0"
+dependencies = [
+    "flet",
+]
+requires-python = ">=3.12"
