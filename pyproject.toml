@@ -1,0 +1,7 @@
+[project]
+name = "behzad-app"
+version = "1.0.0"
+dependencies = [
+    "flet>=0.25.0",
+]
+requires-python = ">=3.12"
